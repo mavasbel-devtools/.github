@@ -12,8 +12,9 @@ Developer tooling and AI coding-agent integrations by [Marco Vásquez Beltrán](
 | Repository | Description |
 |:---|:---|
 | [**opencode**](https://github.com/mavasbel-devtools/opencode) | Fork of [anomalyco/opencode](https://github.com/anomalyco/opencode), used for upstream contributions |
+| [**puppeteer**](https://github.com/mavasbel-devtools/puppeteer) | Fork of [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer), used for upstream contributions |
 
 ---
 
 > [!NOTE]
-> This is an independent organization. It is not affiliated with OpenCode.
+> This is an independent organization. It is not affiliated with OpenCode or Puppeteer.
